@@ -1,0 +1,15 @@
+# Directories
+node_modules/
+dist/
+coverage/
+
+# Local environment variables
+.env
+
+# Log files
+logs/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
